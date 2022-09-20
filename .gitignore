@@ -1,0 +1,7 @@
+node_modules/
+coverage/
+cov/
+cov-merged/
+.parcel-cache/
+.nyc_output/
+yarn.lock
